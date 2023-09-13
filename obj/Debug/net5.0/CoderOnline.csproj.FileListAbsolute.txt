@@ -1,0 +1,92 @@
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\CoderOnline.exe
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\CoderOnline.deps.json
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\CoderOnline.runtimeconfig.json
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\CoderOnline.runtimeconfig.dev.json
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\CoderOnline.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\ref\CoderOnline.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\CoderOnline.pdb
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\Google.Protobuf.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\MySql.Data.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\System.Text.Json.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\ZstdSharp.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\runtimes\win-x64\native\comerr64.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\runtimes\win-x64\native\gssapi64.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\runtimes\win-x64\native\k5sprt64.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\runtimes\win-x64\native\krb5_64.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\runtimes\win-x64\native\krbcc64.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\obj\Debug\net5.0\CoderOnline.csproj.AssemblyReference.cache
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\obj\Debug\net5.0\CoderOnline.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\obj\Debug\net5.0\CoderOnline.AssemblyInfoInputs.cache
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\obj\Debug\net5.0\CoderOnline.AssemblyInfo.cs
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\obj\Debug\net5.0\CoderOnline.csproj.CoreCompileInputs.cache
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\obj\Debug\net5.0\CoderOnline.csproj.CopyComplete
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\obj\Debug\net5.0\CoderOnline.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\obj\Debug\net5.0\ref\CoderOnline.dll
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\obj\Debug\net5.0\CoderOnline.pdb
+D:\CDAC_KH_main\MODULES\NET_Csharp\Net_Projects\CoderOnline\CoderOnline\obj\Debug\net5.0\CoderOnline.genruntimeconfig.cache
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\CoderOnline.exe
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\CoderOnline.deps.json
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\CoderOnline.runtimeconfig.json
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\CoderOnline.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\CoderOnline.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\CoderOnline.pdb
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\ZstdSharp.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\obj\Debug\net5.0\CoderOnline.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\obj\Debug\net5.0\CoderOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\obj\Debug\net5.0\CoderOnline.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\obj\Debug\net5.0\CoderOnline.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\obj\Debug\net5.0\CoderOnline.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\obj\Debug\net5.0\CoderOnline.csproj.CopyComplete
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\obj\Debug\net5.0\CoderOnline.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\obj\Debug\net5.0\refint\CoderOnline.dll
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\obj\Debug\net5.0\CoderOnline.pdb
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\obj\Debug\net5.0\CoderOnline.genruntimeconfig.cache
+C:\Users\DELL\Desktop\CDAC PROJECTS\.NET\NET-Project\obj\Debug\net5.0\ref\CoderOnline.dll
